@@ -1,5 +1,6 @@
 {
   "name": " Feedback Form",
   "description": "A simple application to collect and save user feedback using a Supabase database.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "prompt": ""
 }

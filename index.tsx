@@ -187,7 +187,7 @@ async function handleFormSubmit(e: Event): Promise<void> {
     
     showStatusMessage(`Error: ${error.message}`, 'error', 5000);
   } else {
-    showStatusMessage('Feedback submitted successfully!', 'success');
+    showStatusMessage('Thank You', 'success');
     resetForm();
   }
 }
